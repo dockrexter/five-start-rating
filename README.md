@@ -1,8 +1,27 @@
-# React + Vite
+# Freelancer Reviews
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A platform for customers to rate freelancers based on their performance in various categories.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- Material UI
+- Tailwind CSS
+- GitHub for version control
+- Vercel for deployment
+
+To get a local copy up and running, follow these steps:
+
+Clone the repository and run it:
+   ```bash
+   git clone https://github.com/dockrexter/freelancer-reviews.git
+
+   cd freelancer-reviews
+
+   npm install
+
+   npm run dev
+   
+   ```
+Open your browser and visit http://localhost:5173.
